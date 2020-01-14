@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.viserion.krishisohayeka">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/krishi"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Dhan"
+            android:label="ধান চাষ"
+            />
+        <activity android:name=".Sobji"
+            android:label="সবজি চাষ"
+            />
+        <activity android:name=".Fruits"
+            android:label="ফল চাষ"
+            />
+        <activity android:name=".Dherosh"
+            android:label="ঢেঁড়স চাষ"
+            />
+        <activity android:name=".LalShak"
+            android:label="লাল চাষ"
+            />
+        <activity android:name=".PalongShak"
+            android:label="পালংশাক চাষ"
+            />
+        <activity android:name=".Jhinga"
+            android:label="ঝিঙা চাষ"
+            />
+        <activity android:name=".Borboti"
+            android:label="বরবটি চাষ"
+            />
+        <activity android:name=".Begun"
+            android:label="বেগুন চাষ"
+            />
+        <activity android:name=".Lau"
+            android:label="লাউ চাষ"
+            />
+        <activity android:name=".Korolla"
+            android:label="করল্লা চাষ"
+            />
+        <activity android:name=".Sosha"
+            android:label="শসা চাষ"
+            />
+        <activity android:name=".Gajor"
+            android:label="গাজর চাষ"
+            />
+        <activity android:name=".MistiKumra"
+            android:label="মিষ্টিকুমড়া চাষ"
+            />
+        <activity android:name=".Potol"
+            android:label="পটল চাষ"
+            />
+        <activity android:name=".Mula"
+            android:label="মুলা চাষ"
+            />
+        <activity android:name=".Tometo"
+            android:label="টমেটো চাষ"
+            />
+        <activity android:name=".GolAlu"
+            android:label="গোল আলু চাষ"
+            />
+        <activity android:name=".Sim"
+            android:label="সিম চাষ"
+            />
+        <activity android:name=".KachaMorich"
+            android:label="কাচামরিচ চাষ"
+            />
+        <activity android:name=".Mango"
+            android:label="আম চাষ"
+            />
+        <activity android:name=".Orange"
+            android:label="কমলা চাষ"
+            />
+        <activity android:name=".Lichi"
+            android:label="লিচু চাষ"
+            />
+        <activity android:name=".Pineapple"
+            android:label="আনারস চাষ"
+            />
+        <activity android:name=".Papaya"
+            android:label="পেঁপে চাষ"
+            />
+        <activity android:name=".Kul"
+            android:label="কুল চাষ"
+            />
+        <activity android:name=".Peyara"
+            android:label="পেঁয়ারা চাষ"
+            />
+        <activity android:name=".Banana"
+            android:label="কলা চাষ"
+            />
+        <activity android:name=".Sofeda"
+            android:label="সফেদা চাষ"
+            />
+        <activity android:name=".AushDhan"
+            android:label="আউশ ধান চাষ"
+            />
+        <activity android:name=".AmonDhan"
+            android:label="আমন ধান চাষ"
+            />
+        <activity android:name=".BoroDhan"
+            android:label="বোরো ধান চাষ"
+            />
+        <activity android:name=".BR1"
+            android:label="বিআর১ চাষ"
+            />
+        <activity android:name=".BR2"
+            android:label="বিআর২ চাষ"
+            />
+        <activity android:name=".BR3"
+            android:label="বিআর৩ চাষ"
+            />
+        <activity android:name=".BR4"
+            android:label="বিআর৪ চাষ"
+            />
+        <activity android:name=".BR5"
+            android:label="বিআর৫ চাষ"
+            />
+        <activity android:name=".BR6"
+            android:label="বিআর৬ চাষ"
+            />
+        <activity android:name=".BR7"
+            android:label="বিআর৭ চাষ"
+            />
+        <activity android:name=".BR8"
+            android:label="বিআর৮ চাষ"
+            />
+        <activity android:name=".BR9"
+            android:label="বিআর৯ চাষ"
+            />
+        <activity android:name=".BR10"
+            android:label="বিআর১০ চাষ"
+            />
+        <activity android:name=".BR11"
+            android:label="বিআর১১ চাষ"
+            />
+        <activity android:name=".BR12"
+            android:label="বিআর১২ চাষ"
+            />
+        <activity android:name=".BR14"
+            android:label="বিআর১৪ চাষ"
+            />
+        <activity android:name=".BR15"
+            android:label="বিআর১৫ চাষ"
+            />
+        <activity android:name=".BR16"
+            android:label="বিআর১৬ চাষ"
+            />
+        <activity android:name=".BR20"
+            android:label="বিআর২০ চাষ"
+            />
+        <activity android:name=".BR21"
+            android:label="বিআর২১ চাষ"
+            />
+        <activity android:name=".BR22"
+            android:label="বিআর২২ চাষ"
+            />
+        <activity android:name=".BR23"
+            android:label="বিআর২৩ চাষ"
+            />
+        <activity android:name=".BR25"
+            android:label="বিআর২৫ চাষ"
+            />
+        <activity android:name=".BR39"
+            android:label="বিআর৩৯ চাষ"
+            />
+        <activity android:name=".BRI52"
+            android:label="বিআরআই৫২ চাষ"
+            >
+
+        </activity>
+    </application>
+
+</manifest>

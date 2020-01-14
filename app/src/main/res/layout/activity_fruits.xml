@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".Fruits">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/Button1"
+            android:text="@string/আম_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button2"
+            android:text="@string/কমলা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button3"
+            android:text="@string/লিচু_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button4"
+            android:text="@string/আনারস_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button5"
+            android:text="@string/পেঁপে_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button6"
+            android:text="@string/কুল_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button7"
+            android:text="@string/পেঁয়ারা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button8"
+            android:text="@string/কলা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button9"
+            android:text="@string/সফেদা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

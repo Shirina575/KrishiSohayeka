@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/Button1"
+            android:text="@string/ধান_চাষ"
+            android:textSize="25sp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/rice"
+            android:layout_width="250px"
+            android:layout_height="250px" />
+
+        <Button
+            android:id="@+id/Button2"
+            android:text="@string/সব্জি_চাষ"
+            android:background="@drawable/vegetables"
+            android:textSize="25sp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:layout_width="250px"
+            android:layout_height="250px" />
+
+        <Button
+            android:id="@+id/Button3"
+            android:text="@string/ফল_চাষ"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/fruits"
+            android:layout_width="250px"
+            android:layout_height="250px" />
+
+    </LinearLayout>
+
+
+
+</ScrollView>

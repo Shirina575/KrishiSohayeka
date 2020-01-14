@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".AmonDhan">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/br4"
+            android:text="বিআর ৪"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br5"
+            android:text="বিআর ৫"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br10"
+            android:text="বিআর ১০"
+            android:textSize="25sp"
+            android:background="@color/Background"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br11"
+            android:text="বিআর ১১"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br22"
+            android:text="বিআর ২২"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:background="@color/Background"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br23"
+            android:text="বিআর ২৩"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:background="@color/Background"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/br25"
+            android:text="বিআর ২৫"
+            android:textSize="25sp"
+            android:background="@color/Background"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:id="@+id/br39"
+            android:text="বিআর ৩৯"
+            android:textSize="25sp"
+            android:background="@color/Background"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/bri52"
+            android:text="বিআরআই ৫২"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

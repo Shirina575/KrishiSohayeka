@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".Sobji">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/Button1"
+            android:text="@string/ঢেঁড়স_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button2"
+            android:text="@string/লাল_শাক_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button3"
+            android:text="@string/পালংশাক_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button4"
+            android:text="@string/ঝিঙ্গা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button5"
+            android:text="@string/বরবটি_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button6"
+            android:text="@string/বেগুন_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button7"
+            android:text="@string/লাউ_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button8"
+            android:text="@string/করল্লার_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button9"
+            android:text="@string/শসা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:id="@+id/Button10"
+            android:text="@string/গাজর_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button11"
+            android:text="@string/মিষ্টিকুমড়া_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button12"
+            android:text="@string/পটল_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button13"
+            android:text="@string/মূলা_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:id="@+id/Button14"
+            android:text="@string/টমেটো_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button15"
+            android:text="@string/গোলআলু_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button16"
+            android:text="@string/সিম_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Button17"
+            android:text="@string/কাচামরিচ_চাষ"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/Background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
